@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Laboratorio 2 LL</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="chika_title">Chika Takami</string>
+    <string name="eli_title">Eli Ayase</string>
+    <string name="kotori_title">Kotori Minami</string>
+    <string name="maki_title">Maki Nishikino</string>
+    <string name="nozomi_title">Nozomi Tojo</string>
+
+    <string name="chika_descripcion">Es una estudiante de segundo año en la preparatoria femenina Uranohoshi y quien inició Aqours.</string>
+    <string name="eli_descripcion">Es de ascendencia rusa por parte de su abuela; usualmente Eli dice la palabra rusa хорошо (harasho, que signficia bien u okay).</string>
+    <string name="kotori_descripcion">Kotori es muy amable y simpática, suele estar en las nubes y es un poco torpe.noka o Umi.</string>
+    <string name="maki_descripcion">Maki proviene de una adinerada familia de médicos, por lo cual está algo presionada a convertirse en médico también y abandonar la música.</string>
+    <string name="nozomi_descripcion">Habla en dialecto de Kansai, ya que a pesar de no ser originaria, pasó unos años de su infancia allí.</string>
+
+    <string name="chika_info">Chika es muy enérgica, sociable y tiene un sentido muy fuerte de perseverancia. Esto se muestra varias veces en el anime, como cuando seguía tratando de persuadir a la presidenta del consejo estudiantil, Dia Kurosawa, para que permitiera la aprobación del club de School idols. Su actitud positiva puede afectar gradualmente a todas a su alrededor, así como se muestra durante el progreso del anime. Su naturaleza enérgica y perseverante también la hace bastante impaciente y fácil de burlarse de darse por vencida, solo para hacerla aún más perseverante en el logro de su objetivo. \nSin embargo, debido a su naturaleza positiva habitual, tiende a ocultar su lado más sensible y trata de no llorar cuando se siente frustrada, ya que siente que arrastraría la moral de las demás si la vieran llorar. Esto se puede ver durante el episodio 8 de la primera temporada, cuando está profundamente frustrada por dentro después de la decepcionante actuación de Aqours en comparación con los otros grupos de School idols.</string>
+    <string name="eli_info">Eli es mostrada como el modelo a seguir para las demás estudiantes de la escuela, dado su rol como presidenta del consejo estudiantil. Asimismo, es retratada como una persona fría y estricta en virtud de sus responsabilidades. A pesar de que inicialmente parece estoica y escéptica ante la situación de la escuela, más adelante se ve que en realidad es muy amable y preocupada por sus cercanos, como por su hermana menor. \nEli es muy respetada y conocida entre las estudiantes, las estudiantes de curso menor la llaman Eli-senpai. También es confiable ya que su abuela le confió la responsabilidad de evitar que la escuela se cierre. Además de ser admirable, Eli también tiene muchos admiradores en la preparatoria. Después de unirse al grupo, su popularidad aumentó y su clasificación entre las school idols aumentó, logrando más fama.</string>
+    <string name="kotori_info">Kotori también se muestra como la persona más indecisa entre las nueve miembros y tiende a que Umi y Honoka, tomen decisiones por ella. También le cuesta expresar sus sentimientos, ya que siempre toma en consideración los sentimientos de otras personas. Kotori es una persona amable, sin embargo, también puede ser crédula, como se muestra en la episodio 10 de la primera temporada donde Nico afirmó que tiene un chef personal como Maki, y Kotori creyó en la mentira de Nico sin saberlo. \nEn las vacaciones de Kotori (julio de 2012), se revela que Kotori es el tipo de persona que no puede relajarse a menos que todo el trabajo se realice lo antes posible.</string>
+    <string name="maki_info">Es hábil al tocar el piano, y es la compositora de µs, así como entrenadora vocal. Sus otros hobbies son la fotografía y la astronomía. Se destaca en sacar calificaciones perfectas en los exámenes. Se convirtió en la vicepresidenta del club de investigación idol tras la graduación de las chicas de tercero.</string>
+    <string name="nozomi_info">A menudo aconseja a sus compañeras de μs siendo la líder espiritual del grupo y la más sabia de todas. Sin embargo, debido a la forma en que las reprende (apretando sus pechos), a menudo podría parecer una pervertida. Esto se puede ver durante el episodio 7 de la primera temporada, para mantener a Honoka, Rin y Nico estudiando y no suspender sus exámenes.</string>
+</resources>
